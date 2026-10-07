@@ -1,0 +1,7 @@
+com\example\telegrambot\CommandServiceTest.class
+com\example\telegrambot\ShoppingServiceTest$InMemoryShoppingRepository.class
+com\example\telegrambot\ReminderServiceTest.class
+com\example\telegrambot\TaskServiceTest$InMemoryTaskRepository.class
+com\example\telegrambot\ShoppingServiceTest.class
+com\example\telegrambot\ReminderServiceTest$InMemoryTaskRepository.class
+com\example\telegrambot\TaskServiceTest.class
