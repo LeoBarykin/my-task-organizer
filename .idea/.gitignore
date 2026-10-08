@@ -1,0 +1,38 @@
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Tmp files #
+*.tmp
+*.temp
+
+# Build tool directories
+target/
+build/
+out/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# IDE - VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
